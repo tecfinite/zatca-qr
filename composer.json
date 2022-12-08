@@ -1,0 +1,49 @@
+{
+    "name": "tecfinite/zatca-qr",
+    "description": "ZATCA Qr code generator.",
+    "keywords": [
+        "tecfinite",
+        "zatca-qr"
+    ],
+    "homepage": "https://github.com/tecfinite/zatca-qr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdurrahman Salem",
+            "email": "a.hussalem@tecfinite.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "endroid/qr-code": "^4.4"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.0",
+        "pestphp/pest": "^1.20",
+        "spatie/ray": "^1.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tecfinite\\ZatcaQr\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tecfinite\\ZatcaQr\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/pest",
+        "test-coverage": "vendor/bin/pest --coverage",
+        "format": "vendor/bin/php-cs-fixer fix --allow-risky=yes"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
