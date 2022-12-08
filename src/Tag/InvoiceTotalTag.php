@@ -1,0 +1,16 @@
+<?php
+
+namespace Tecfinite\ZatcaQr\Tag;
+
+use JetBrains\PhpStorm\Pure;
+
+class InvoiceTotalTag extends Tag
+{
+
+    private const INDEX = 4;
+
+    #[Pure] public function __construct(string $value)
+    {
+        parent::__construct(self::INDEX, $value);
+    }
+}

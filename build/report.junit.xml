@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="2" errors="1" warnings="0" failures="0" skipped="0" time="0.093376">
+    <testsuite name="P\Tests\Feature\CreateZetcaQrTest" file="/Users/ahussalem/Documents/Work/Projects/Tecfinite/zatca-qr/vendor/pestphp/pest/src/Factories/TestCaseFactory.php(222) : eval()'d code" tests="1" assertions="2" errors="1" warnings="0" failures="0" skipped="0" time="0.093376">
+      <testcase name="it can create ZETCA QR" assertions="2" time="0.093376">
+        <error type="PHPUnit\Framework\OutputError">/Users/ahussalem/Documents/Work/Projects/Tecfinite/zatca-qr/tests/Feature/CreateZetcaQrTest.php::it can create ZETCA QR
+This test printed output: 010c426f6273205265636f726473020f3331303132323339333530303030330314323032322d30342d32355431353a33303a30305a0407313030302e303005063135302e3030
+AQxCb2JzIFJlY29yZHMCDzMxMDEyMjM5MzUwMDAwMwMUMjAyMi0wNC0yNVQxNTozMDowMFoEBzEwMDAuMDAFBjE1MC4wMA==
+
+/Users/ahussalem/Documents/Work/Projects/Tecfinite/zatca-qr/vendor/pestphp/pest/src/Console/Command.php:117
+/Users/ahussalem/Documents/Work/Projects/Tecfinite/zatca-qr/vendor/pestphp/pest/bin/pest:62
+/Users/ahussalem/Documents/Work/Projects/Tecfinite/zatca-qr/vendor/pestphp/pest/bin/pest:63</error>
+        <system-out>010c426f6273205265636f726473020f3331303132323339333530303030330314323032322d30342d32355431353a33303a30305a0407313030302e303005063135302e3030
+AQxCb2JzIFJlY29yZHMCDzMxMDEyMjM5MzUwMDAwMwMUMjAyMi0wNC0yNVQxNTozMDowMFoEBzEwMDAuMDAFBjE1MC4wMA==</system-out>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>
