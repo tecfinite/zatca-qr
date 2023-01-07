@@ -1,7 +1,6 @@
 {
     "name": "tecfinite/zatca-qr",
     "description": "This package takes ZATCA invoice data and generates ZATCA TLV string and Qr code image.",
-    "version": "0.1.0",
     "keywords": [
         "tecfinite",
         "zatca",
