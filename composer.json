@@ -1,15 +1,18 @@
 {
     "name": "tecfinite/zatca-qr",
-    "description": "ZATCA Qr code generator.",
+    "description": "This package takes ZATCA invoice data and generates ZATCA TLV string and Qr code image.",
     "keywords": [
         "tecfinite",
-        "zatca-qr"
+        "zatca",
+        "zatca invoice",
+        "zatca qr"
     ],
     "homepage": "https://github.com/tecfinite/zatca-qr",
     "license": "MIT",
     "authors": [
         {
             "name": "Abdurrahman Salem",
+            "homepage": "https://tecfinite.com",
             "email": "a.hussalem@tecfinite.com",
             "role": "Developer"
         }
