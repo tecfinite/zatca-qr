@@ -1,13 +1,15 @@
-[<img width="100" src="https://tecfinite.com/assets/img/Untitled-3.svg" />](https://tecfinite.com)
 
-*By* **TECFINITE**
+
 
 
 ## ZATCA Qr code generator
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tecfinite/zatca-qr.svg?style=flat-square)](https://packagist.org/packages/tecfinite/zatca-qr)
-[![Tests](https://github.com/tecfinite/zatca-qr/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/tecfinite/zatca-qr/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/tecfinite/zatca-qr.svg?style=flat-square)](https://packagist.org/packages/tecfinite/zatca-qr)
+[<img width="42" src="https://tecfinite.com/assets/img/Untitled-3.svg" />](https://tecfinite.com)
+
+
+[//]: # ([![Tests]&#40;https://github.com/tecfinite/zatca-qr/actions/workflows/run-tests.yml/badge.svg?branch=main&#41;]&#40;https://github.com/tecfinite/zatca-qr/actions/workflows/run-tests.yml&#41;)
 
 E-invoice QR code generator, is a simple library to generate QR code image for e-invoice in KSA.
 
