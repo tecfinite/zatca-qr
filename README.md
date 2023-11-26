@@ -6,7 +6,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tecfinite/zatca-qr.svg?style=flat-square)](https://packagist.org/packages/tecfinite/zatca-qr)
 [![Total Downloads](https://img.shields.io/packagist/dt/tecfinite/zatca-qr.svg?style=flat-square)](https://packagist.org/packages/tecfinite/zatca-qr)
-[<img width="42" src="https://tecfinite.com/assets/img/Untitled-3.svg" />](https://tecfinite.com)
+[<img width="42" src="https://www.tecfinite.com/assets/img/tfnt-logo.svg" />](https://tecfinite.com)
 
 
 [//]: # ([![Tests]&#40;https://github.com/tecfinite/zatca-qr/actions/workflows/run-tests.yml/badge.svg?branch=main&#41;]&#40;https://github.com/tecfinite/zatca-qr/actions/workflows/run-tests.yml&#41;)
