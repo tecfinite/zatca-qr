@@ -36,10 +36,10 @@ use Tecfinite\ZatcaQr\ZatcaQr;
 $qr = new Tecfinite\ZatcaQr();
 $qr = new ZatcaQr(
             new ZatcaSellerTag($this->sellerName),
-            new ZatcaVatRegistrationNumberTag($this->taxId),
-            new ZatcaTimestampTag($this->bookingInvoice->created_at),
-            new ZatcaInvoiceTotalTag($this->bookingInvoice->ebs_total_fee),
-            new ZatcaVatTotalTag($this->bookingInvoice->ebs_vat_fee),
+            new ZatcaVatRegistrationNumberTag($this->sellerTaxId),
+            new ZatcaTimestampTag($this->invoice->created_at),
+            new ZatcaInvoiceTotalTag($this->invoice->total_fee),
+            new ZatcaVatTotalTag($this->invoice->vat_fee)
           );
 ```
 
@@ -59,7 +59,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Abdurrahman Salem](https://ahussalem.me)
+- [Tecfinite](https://tecfinite.com)
 
 [//]: # (- [All Contributors]&#40;../../contributors&#41;)
 
