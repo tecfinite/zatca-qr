@@ -11,6 +11,12 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Tecfinite",
+            "homepage": "https://tecfinite.com",
+            "email": "info@tecfinite.com",
+            "role": "Developer"
+        },
+        {
             "name": "Abdurrahman Salem",
             "homepage": "https://tecfinite.com",
             "email": "a.hussalem@tecfinite.com",
